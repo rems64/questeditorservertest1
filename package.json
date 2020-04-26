@@ -1,0 +1,15 @@
+{
+  "name": "questeditoralpha",
+  "version": "1.0.0",
+  "description": "New rebased version of the Quest Editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "electron ."
+  },
+  "author": "Remy Fayet",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "electron": "^8.2.3"
+  }
+}
