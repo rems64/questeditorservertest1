@@ -5,11 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run": "electron ."
+    "start": "node src/server.js"
   },
   "author": "Remy Fayet",
   "license": "GPL-3.0",
   "dependencies": {
-    "electron": "^8.2.3"
+    "electron": "^8.2.3",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0"
   }
 }
