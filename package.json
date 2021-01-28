@@ -10,7 +10,7 @@
   "author": "Remy Fayet",
   "license": "GPL-3.0",
   "dependencies": {
-    "electron": "^8.2.3",
+    "electron": "^9.4.0",
     "socket.io": "^2.3.0",
     "socket.io-client": "^2.3.0"
   }
